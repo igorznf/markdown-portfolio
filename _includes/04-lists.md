@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Developer.
+1. Github
+2. Frontend
+3. Backend
